@@ -4,5 +4,5 @@ games {"gta5"}
 
 
 client_scripts {    
-    'crosshair.lua',
+    'Crosshair.lua',
 }
